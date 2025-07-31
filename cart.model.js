@@ -1,1 +1,1 @@
-console.log('added cart model')
+console.log('updated cart model')
